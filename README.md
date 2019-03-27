@@ -26,7 +26,7 @@ Humans have been able to explore only about 20% of sea life. With the help of th
  
  ## Cost Structure 
 
-Mechanical parts
+Mechanical parts:
 
 4 motors - 700
 
@@ -34,7 +34,7 @@ mid body - 200
 
 3 D printing - 400
 
-Electronics parts
+Electronics parts:
 
 Arduino UNO - 400
 
