@@ -26,7 +26,7 @@ Humans have been able to explore only about 20% of sea life. With the help of th
  
  ## Cost Structure 
 
-Mechanical parts- 700(4 motors) + 200(mid body) + 400 (3 D printing) = 1270 rupees
+Mechanical parts- 700(4 motors) + 200(mid body) + 400 (3 D printing) = 1300 rupees
 
 Electronics parts - 400(Arduino UNO) + 300 (2 motor driver) + 250 (battery and other material) = 950 rupees
 
