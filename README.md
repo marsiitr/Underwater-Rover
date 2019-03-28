@@ -17,32 +17,27 @@ Humans have been able to explore only about 20% of sea life. With the help of th
 
  Here main problem  is waterproofing of whole system specially at shaft of motors. Here we have used wax and vaseline for waterproofing.
  And another problem is selection of proper motor producing enough torque to counterbalance drag. To produce sufficient thrust, here we have used DC motors of 300RPM.
+  ![](https://github.com/ayushkumardixit/Underwater-Rover/blob/master/Mechanical%20Design/Solidworks%20screenshot.png)
  
  ## Electronic aspect
  
  The Arduino code acts as a 4-button controller with a switch, controlling 4 motors via 2 motor drivers. When the switch is in ON state, all the motors move in clockwise direction, thus enabling UP and FORWARD movement. When the switch is in OFF state, all the motors move in anticlockwise direction, thus enabling DOWN and BACKWARD movement. In both the switch's states, RIGHT and LEFT is possible. It drives each motor with the same PWM value signal of 240.
  
- ![](https://github.com/ayushkumardixit/Underwater-Rover/blob/master/Mechanical%20Design/Solidworks%20screenshot.png)
+
  
  ## Cost Structure 
+ 
+ | Materials  | Cost |
+| ------------- | ------------- |
+| 4 motors | 700 |
+| mid body | 200  |
+| 3 D printing  | 400 |
+| Arduino UNO  |400 |
+| 2 motor driver  | 300 |
+| battery and other material | 250  |
+| Total | 2250 |
 
-Mechanical parts:
 
-4 motors - 700
-
-mid body - 200
-
-3 D printing - 400
-
-Electronics parts:
-
-Arduino UNO - 400
-
-2 motor driver - 300
-
-battery and other material - 250
-
-Total 2250 rupees
 
 
 ## Applications
