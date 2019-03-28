@@ -17,7 +17,7 @@ Humans have been able to explore only about 20% of sea life. With the help of th
 4. In both the switch's states, RIGHT and LEFT is possible.
 5. It drives each motor with the same PWM value signal of 240
  ## Cost Structure 
- | Materials  | Cost |
+ | Materials  | Cost(INR) |
 | ------------- | ------------- |
 | 4 Motors | 700 |
 | Mid body | 200  |
