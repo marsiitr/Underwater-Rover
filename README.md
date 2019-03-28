@@ -35,12 +35,12 @@ Humans have been able to explore only about 20% of sea life. With the help of th
  
  | Materials  | Cost |
 | ------------- | ------------- |
-| 4 motors | 700 |
-| mid body | 200  |
-| 3 D printing  | 400 |
+| 4 Motors | 700 |
+| Mid body | 200  |
+| 3D Printing  | 400 |
 | Arduino UNO  |400 |
-| 2 motor driver  | 300 |
-| battery and other material | 250  |
+| 2 Motor Driver  | 300 |
+| Battery and other material | 250  |
 | Total | 2250 |
 
 
