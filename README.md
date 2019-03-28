@@ -66,18 +66,20 @@ Humans have been able to explore only about 20% of sea life. With the help of th
 2. By improving electronic system and mechanical strength, it can reach greater depths.
 
 ## Team Member
-
 1.[Ayush Kumar Dixit](https://github.com/ayushkumardixit)
+
 2.[Masih Ahmed](https://github.com/anon766)
+
 3.[Parth Gupta](https://github.com/parthg2211)
+
 4.[Rahul Panjwani](https://github.com/rahulpanjwani)
 
 
 
 
 ## Mentor
-
 1.Abhishek Sehgel
+
 2.Riya Bhalla
 
 
