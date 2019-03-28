@@ -15,13 +15,19 @@ Humans have been able to explore only about 20% of sea life. With the help of th
 
 ## Mechanical Aspect
 
- Here main problem  is waterproofing of whole system specially at shaft of motors. Here we have used wax and vaseline for waterproofing.
- And another problem is selection of proper motor producing enough torque to counterbalance drag. To produce sufficient thrust, here we have used DC motors of 300RPM.
+1 - A suitable motor should be choosed such that it counterbalance drag forces and also produces enough thrust . Here we have used DC motor of 300 RPM.
+2 - The whole system should be waterproof . so , we have used different types of wax and vaseline at shaft of motor to prevent from water.
+3 - We have used 4 motors in which 2 of them provides vertical thrust and other 2 provides horizontally . with help of these we can rotate it in a horizontal plane and also we can travel vertically .
+
   ![](https://github.com/ayushkumardixit/Underwater-Rover/blob/master/Mechanical%20Design/Solidworks%20screenshot.png)
  
  ## Electronic aspect
  
- The Arduino code acts as a 4-button controller with a switch, controlling 4 motors via 2 motor drivers. When the switch is in ON state, all the motors move in clockwise direction, thus enabling UP and FORWARD movement. When the switch is in OFF state, all the motors move in anticlockwise direction, thus enabling DOWN and BACKWARD movement. In both the switch's states, RIGHT and LEFT is possible. It drives each motor with the same PWM value signal of 240.
+1. The Arduino code acts as a 4-button controller with a switch, controlling 4 motors via 2 motor drivers.
+2. When the switch is in ON state, all the motors move in clockwise direction. Thus enabling  UP and FORWARD movement. 
+3. When the switch is in OFF state, all the motors move in anticlockwise direction, thus enabling DOWN and BACKWARD movement. 
+4. In both the switch's states, RIGHT and LEFT is possible.
+5. It drives each motor with the same PWM value signal of 240
  
 
  
@@ -51,21 +57,19 @@ Humans have been able to explore only about 20% of sea life. With the help of th
 
 ## Limitation
 
-This rover can not work beyond a certain depth, because of increase in pressure, water will begin to enter inside the body and also we have to check the frequency of the wave we are using should not match with frequency produced by vibration of motors and also should not  match with the resonace frequency.
+1 -This rover can not work beyond a certain depth, because of increase in pressure, water will begin to enter inside the body 
+2 - we have to check that frequency of the wave  that we are using should not match with frequency produced by vibration of motors and also should not  match with the resonace frequency.
 
 ## Future Improvements
 
 1. It can be made wireless with help of devices like Bluetooth.
 2. By improving electronic system and mechanical strength, it can reach greater depths.
 
-## TEAM MEMBERS
+## Team Member
 
 1.[Ayush Kumar Dixit](https://github.com/ayushkumardixit)
-
 2.[Masih Ahmed](https://github.com/anon766)
-
 3.[Parth Gupta](https://github.com/parthg2211)
-
 4.[Rahul Panjwani](https://github.com/rahulpanjwani)
 
 
@@ -74,7 +78,6 @@ This rover can not work beyond a certain depth, because of increase in pressure,
 ## Mentor
 
 1.Abhishek Sehgel
-
 2.Riya Bhalla
 
 
