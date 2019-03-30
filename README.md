@@ -33,8 +33,8 @@ Humans have been able to explore only about 20% of sea life. With the help of th
 4. If mounted with a camera , it can spy enemies and provide with useful information to the navy.
 5. It can also navigate sea life. We can explore sea life like endangered species in a better way.
 ## Limitation
-1.This rover can not work beyond a certain depth, because of increase in pressure, water will begin to enter inside the body 
-2. we have to check that frequency of the wave  that we are using should not match with frequency produced by vibration of motors and also should not  match with the resonace frequency.
+1. This rover can not work beyond a certain depth, because of increase in pressure, water will begin to enter inside the body. 
+2. We have to check that frequency of the wave  that we are using should not match with frequency produced by vibration of motors and also should not  match with the resonace frequency.
 ## Future Improvements
 1. It can be made wireless with help of devices like Bluetooth.
 2. By improving electronic system and mechanical strength, it can reach greater depths.
